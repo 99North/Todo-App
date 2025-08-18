@@ -22,19 +22,25 @@ A beautiful, modern todo application built with React and Tailwind CSS. Designed
 ## 📁 Project Structure
 
 ```
-todo-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── TodoApp.js          # Main todo component
-│   ├── App.js                  # Main app component
-│   ├── index.js               # React entry point
-│   └── index.css              # Global styles & Tailwind imports
-├── package.json               # Dependencies
-├── tailwind.config.js         # Tailwind configuration
-├── postcss.config.js          # PostCSS configuration
-└── README.md                  # This file
+public/
+    └── index.html
+src/
+    ├── components/
+        ├── Calendar.js
+        ├── LandingPage.js
+        └── TodoApp.js
+    ├── App.css
+    ├── App.js
+    ├── index.css
+    ├── index.js
+    └── setupTests.js
+.gitignore
+package-lock.json
+package.json
+postcss.config.js
+README.md
+tailwind.config.js
+
 ```
 
 ## 🚀 Getting Started
