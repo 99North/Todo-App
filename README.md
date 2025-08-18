@@ -1,4 +1,4 @@
-# 🚀 Elegant Todo App
+# 🚀 Taskflow Todo App
 
 A beautiful, modern todo application built with React and Tailwind CSS. Designed for daily productivity with an elegant glassmorphism UI.
 
