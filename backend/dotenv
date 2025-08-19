@@ -1,0 +1,8 @@
+PORT=5000
+MONGO_URI=mongodb+srv://debi:debi@todo-app.pndcikt.mongodb.net/?retryWrites=true&w=majority&appName=todo-app
+JWT_SECRET=q1f2XnQTeNm7mFiytC472TOtLeK6BjCl0D8P+Cu9z6k=
+
+
+# NOTE :
+# first rename this file from dotenv to .env
+# then run:   npm run dev
